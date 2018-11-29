@@ -1,0 +1,10 @@
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.Form1.resources
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.Properties.Resources.resources
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+F:\CESI EXIA\DotNet\MVC_Test\MVC\bin\Debug\MVC.exe.config
+F:\CESI EXIA\DotNet\MVC_Test\MVC\bin\Debug\MVC.exe
+F:\CESI EXIA\DotNet\MVC_Test\MVC\bin\Debug\MVC.pdb
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.exe
+F:\CESI EXIA\DotNet\MVC_Test\MVC\obj\Debug\MVC.pdb
